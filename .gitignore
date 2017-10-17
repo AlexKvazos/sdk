@@ -26,10 +26,7 @@ build/Release
 # https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git
 node_modules
 .idea
-/zip.cmd
-/fonticons.zip
-/styles.zip
-/scripts.zip
-plugins
-!/plugins/myPlugin/
-!/plugins/testPlugin/
+
+# Distribution files
+plugin.zip
+dist
